@@ -1,10 +1,10 @@
-// Author : Luke Olson
-// Serial Number : 22
+// Author : Luke 
+// Serial Number : 
 // Due Date : 3/3/20
 // Programming Assignment Number 2
-// Spring 2020 - CS 3358 - 252
+// 
 //
-// Instructor: Husain Gholoom.
+// Instructor: 
 //
 // This program  implement stacks and queues ADT using linked
 // lists with pointers only
@@ -94,7 +94,7 @@ void stackEqual()
     }
     while (ss);
 
-    // char str[] = "GeeksQuiz";
+    // char str[] = "12345";
 
     // reverse(str);
     // cout << "Reversed string is " << str;
