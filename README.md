@@ -1,6 +1,6 @@
 # Stack and Queue C++
 
-# Requirements
+## Requirements
 
 For this assignment you will implement stacks and queues ADT using linked
 lists with pointers only. A stack or a queue can be used to recognize a
