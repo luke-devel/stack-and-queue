@@ -1,4 +1,4 @@
-## Stack and Queue C++
+# Stack and Queue C++
 
 # Requirements
 
